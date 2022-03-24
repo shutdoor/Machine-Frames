@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "machineframes:block/tier_4",
+    "bottom": "machineframes:block/top",
+    "top": "machineframes:block/top"
+  }
+}
